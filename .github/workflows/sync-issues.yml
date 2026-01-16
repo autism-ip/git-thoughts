@@ -49,7 +49,7 @@ jobs:
       - name: Run Sync Script
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-          GITHUB_REPO: foreveryh/git-thoughts
+          GITHUB_REPO: autism-ip/git-thoughts
         run: node fetch_issues.js
 
       - name: Check if issues.json was created
