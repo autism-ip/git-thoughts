@@ -1,5 +1,17 @@
 [
   {
+    "id": 3820754853,
+    "number": 2,
+    "title": "日常",
+    "body": "测试",
+    "url": "https://github.com/autism-ip/git-thoughts/issues/2",
+    "created_at": "2026-01-16T07:16:35Z",
+    "updated_at": "2026-01-16T07:16:35Z",
+    "tags": [
+      "Daily"
+    ]
+  },
+  {
     "id": 3820738349,
     "number": 1,
     "title": "功能测试",
