@@ -1,5 +1,19 @@
 [
   {
+    "id": 3928907589,
+    "number": 8,
+    "title": "Towow",
+    "body": "这两天在 Secondme Hackthon 看到不少有意思的 agent 项目，但最让我印象深的是 通爻 Towowd：他们不跟别人卷应用层，而是直接做协议层/协作层，属于那种“卖铲子/卖锄头”的路线。更特别的是协作机制不走主流的“搜索/路由范式”（我缺什么→我去找谁），而是用一种 广播式范式：把 agent 之间被动相互搜索变成主动响应——你把现场状态/意图喊一声，合适的 agent 会自己站出来补信息、给建议、纠偏。看了他们的案例演示，确实效果也很顺滑。\n",
+    "url": "https://github.com/autism-ip/git-thoughts/issues/8",
+    "created_at": "2026-02-11T22:12:54Z",
+    "updated_at": "2026-02-11T22:12:54Z",
+    "tags": [
+      "AI",
+      "Agent",
+      "A2A"
+    ]
+  },
+  {
     "id": 3928904334,
     "number": 7,
     "title": "Secondme Hackthon",
