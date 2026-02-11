@@ -16,11 +16,11 @@
   {
     "id": 3928904334,
     "number": 7,
-    "title": "Secondme Hackthon",
-    "body": "最近Secondme举办了一场黑客松，据说是全球首届 A2A 黑客松，一堆 agent 版游戏、代人约会/求职/炒股，越发觉得当下趋势不只是局限于“给应用加 AI”，还开始做 agent 原生。早期会先在低风险、反馈快的游戏/模拟里爆发，但决定能走多远的是权限边界、过程可回放、责任可追溯。不是 AI 取代人，而是“能被托付的 agent”在重写软件的形状。",
+    "title": "SecondMe Hackathon",
+    "body": "最近SecondMe举办了一场黑客松，据说是全球首届 A2A 黑客松，一堆 agent 版游戏、代人约会/求职/炒股，越发觉得当下趋势不只是局限于“给应用加 AI”，还开始做 agent 原生。早期会先在低风险、反馈快的游戏/模拟里爆发，但决定能走多远的是权限边界、过程可回放、责任可追溯。不是 AI 取代人，而是“能被托付的 agent”在重写软件的形状。",
     "url": "https://github.com/autism-ip/git-thoughts/issues/7",
     "created_at": "2026-02-11T22:11:56Z",
-    "updated_at": "2026-02-11T22:11:56Z",
+    "updated_at": "2026-02-11T22:15:09Z",
     "tags": [
       "AI",
       "Agent",
